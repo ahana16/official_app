@@ -1,1 +1,2 @@
-# official_app
+# OFFICIAL Stock Trading Observational App 
+
