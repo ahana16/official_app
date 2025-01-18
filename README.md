@@ -1,3 +1,3 @@
 # OFFICIAL Stock Trading Observational App 
-# Welcome to my web app! This web application was designed in order to effectively display up to date data on stock prices and relevant data for effective decsion making for stock traders, simliar to my client! I hope you enjoy :)
+# Welcome to my web app! This app is designed to help traders and investors analyze stock data with customizable charts and real-time insights. Hope it helps you out!
 
